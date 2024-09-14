@@ -115,4 +115,3 @@ yarn start
 | `info4`    | string | No       | More information of member. | `info4="Last seen: 23h ago"`               |
 
 
-# What is a readme
