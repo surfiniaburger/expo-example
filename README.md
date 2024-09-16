@@ -31,10 +31,7 @@ You can try it here : https://expo.io/@stevenpersia/projects/tinder-expo
 
 ## Screenshots
 
-<img
-width="205"
-alt="Capture 1"
-src="https://github.com/stevenpersia/tinder-expo/blob/master/preview/capture-1.png">
+
 <img
 width="205"
 alt="Capture 2"
