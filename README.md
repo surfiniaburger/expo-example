@@ -32,6 +32,7 @@ You can try it here : https://expo.io/@stevenpersia/projects/tinder-expo
 ## Screenshots
 
 
+
 <img
 width="205"
 alt="Capture 2"
